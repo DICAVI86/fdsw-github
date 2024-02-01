@@ -37,3 +37,19 @@ body {
   }
 
 }
+
+.bgcolor {
+  background-color: #0008ff;
+}
+
+.fcolor {
+  color: #0008ff;
+}
+
+.bt-color {
+  background-color: #0008ff;
+}
+
+.bt-color:hover{
+  background-color: black;
+}
